@@ -1,5 +1,16 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course - Practicing Project
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is created for practicing Next.js App Router, based on the starter template from the [Next.js App Router Course](https://nextjs.org/learn).
+In this project, I will be experimenting with different features and modifications to deepen my understanding and application of Next.js.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Project Objectives
+To master the basic usage and concepts of Next.js.
+To practice building web applications with practical functionalities.
+To attempt implementing personalized feature extensions.
+
+## My Modifications
+
+
+
+## More Information
+For more information about the original course and template, please visit the [Next.js Website](https://nextjs.org/).
