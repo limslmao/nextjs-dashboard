@@ -13,14 +13,14 @@ Throughout the completion of the first eleven chapters of the Next.js App Router
 
 1. CSS Styling: Implemented a custom CSS framework that aligns with the visual identity of the project, enhancing the user interface with a distinct look and feel.
 2. Optimizing Fonts and Images: Optimized static assets to improve load times, including the implementation of modern image formats and font loading strategies.
-3. Chapter 4 - Creating Layouts and Pages: Designed and developed a set of reusable layouts and pages, focusing on modularity and scalability.
-4. Chapter 5 - Navigating Between Pages: Enhanced the navigation experience with animated transitions and proactive data fetching, making the page changes seamless and efficient.
-5. Chapter 6 - Setting Up Your Database: Integrated a database solution tailored to the project's data needs, ensuring efficient data storage and retrieval.
-6. Chapter 7 - Fetching Data: Created a robust data fetching layer that handles server-side operations, client-side fetching, and caching mechanisms.
-7. Chapter 8 - Static and Dynamic Rendering: Leveraged the benefits of both static and dynamic rendering to deliver content efficiently, utilizing Next.js's hybrid pages feature.
-8. Chapter 9 - Streaming: Explored the use of streaming to incrementally deliver content, enhancing the perceived performance of data-heavy operations.
-9. Chapter 10 - Partial Prerendering (Optional): Implemented partial prerendering strategies for optimal loading performance, ensuring critical content is delivered with priority.
-10. Chapter 11 - Adding Search and Pagination: Developed a search functionality with real-time filtering and added pagination to manage data presentation in a user-friendly manner.
+3. Creating Layouts and Pages: Designed and developed a set of reusable layouts and pages, focusing on modularity and scalability.
+4. Navigating Between Pages: Enhanced the navigation experience with animated transitions and proactive data fetching, making the page changes seamless and efficient.
+5. Setting Up Your Database: Integrated a database solution tailored to the project's data needs, ensuring efficient data storage and retrieval.
+6. Fetching Data: Created a robust data fetching layer that handles server-side operations, client-side fetching, and caching mechanisms.
+7. Static and Dynamic Rendering: Leveraged the benefits of both static and dynamic rendering to deliver content efficiently, utilizing Next.js's hybrid pages feature.
+8. Streaming: Explored the use of streaming to incrementally deliver content, enhancing the perceived performance of data-heavy operations.
+9. Partial Prerendering (Optional): Implemented partial prerendering strategies for optimal loading performance, ensuring critical content is delivered with priority.
+10. Adding Search and Pagination: Developed a search functionality with real-time filtering and added pagination to manage data presentation in a user-friendly manner.
 
 These modifications have not only solidified my understanding of Next.js's core principles but also pushed the boundaries of what I can achieve with the framework. By applying what I've learned in practical scenarios, I've managed to create a more engaging and performant application.
 
