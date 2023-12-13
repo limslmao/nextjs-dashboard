@@ -13,19 +13,20 @@ To attempt implementing personalized feature extensions.
 
 Throughout the completion of the first eleven chapters of the Next.js App Router Course, I've not only acquired new skills but also tailored the learning experience to my interests and project requirements. Here's an overview of the customizations and enhancements I've made:
 
-1. CSS Styling: Implemented a custom CSS framework that aligns with the visual identity of the project, enhancing the user interface with a distinct look and feel.
-2. Optimizing Fonts and Images: Optimized static assets to improve load times, including the implementation of modern image formats and font loading strategies.
-3. Creating Layouts and Pages: Designed and developed a set of reusable layouts and pages, focusing on modularity and scalability.
-4. Navigating Between Pages: Enhanced the navigation experience with animated transitions and proactive data fetching, making the page changes seamless and efficient.
-5. Setting Database: Integrated postgreSQL to the project's data needs, ensuring efficient data storage and retrieval.
-6. Fetching Data: Created a robust data fetching layer that handles server-side operations, client-side fetching, and caching mechanisms.
+1. CSS Styling: Implemented styles with Tailwind, CSS Modules and clsx.
+2. Optimizing Fonts and Images: Optimized fonts with next/font, and optimized images with Image Component.
+3. Creating Layouts and Pages: Create the dashboard routes using file-system routing, created dashboard layout.
+4. Navigating Between Pages: Enhanced the navigation experience using client-side navigation with next/link.
+5. Database and Project Deploying : Create a Postgres DB to the project's data needs, deploy project on Vercel.
+6. Fetching Data: Fetching data using React Server Components and SQL, using parallel to improve efficiency.
 7. Static and Dynamic Rendering: Leveraged the benefits of both static and dynamic rendering to deliver content efficiently, utilizing Next.js's hybrid pages feature.
-8. Streaming: Explored the use of streaming to incrementally deliver content, enhancing the perceived performance of data-heavy operations.
-9. Adding Search and Pagination: Developed a search functionality with real-time filtering and added pagination to manage data presentation in a user-friendly manner.
-10. Mutating Data: Implemented efficient data mutation strategies for dynamic user interactions. Includes creating, updating, and deleting data entries in real-time. Utilized server-side APIs to handle data operations securely and robustly, ensuring data integrity and responsiveness. Integrated these operations seamlessly into the user interface, providing instant feedback and a dynamic experience to users.
+8. Streaming: Implemented streaming with loading.tsx and Suspense to avoid impact of slow data fetches.
+9. Search and Pagination: Implemented a search function with real-time filtering and added pagination to manage data presentation in a user-friendly manner.
+10. Mutating Data: Implemented data mutating with React Server Actions,
 11. Error Handling: Created try-catch block with sql, handle error with error.tsx for all the pages, not-found.tsx for specific page.
-12. Improving Accessibility: Implemented server-side form validation with useFormState hook, Zod and aira labels.
+12. Accessibility Improving: Implemented server-side form validation with useFormState hook, Zod and aira labels.
 13. Authentication: Implemented authentication with NextAuth.js, protecting routes with middleware.
+14. Metadata: Added page metadata like titles with Next Metadata API.
 
 These modifications have not only solidified my understanding of Next.js's core principles but also pushed the boundaries of what I can achieve with the framework. By applying what I've learned in practical scenarios, I've managed to create a more engaging and performant application.
 
