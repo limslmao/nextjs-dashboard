@@ -22,6 +22,8 @@ Throughout the completion of the first eleven chapters of the Next.js App Router
 7. Static and Dynamic Rendering: Leveraged the benefits of both static and dynamic rendering to deliver content efficiently, utilizing Next.js's hybrid pages feature.
 8. Streaming: Explored the use of streaming to incrementally deliver content, enhancing the perceived performance of data-heavy operations.
 9. Adding Search and Pagination: Developed a search functionality with real-time filtering and added pagination to manage data presentation in a user-friendly manner.
+10. Mutating Data: Implemented efficient data mutation strategies for dynamic user interactions. Includes creating, updating, and deleting data entries in real-time. Utilized server-side APIs to handle data operations securely and robustly, ensuring data integrity and responsiveness. Integrated these operations seamlessly into the user interface, providing instant feedback and a dynamic experience to users.
+11. Error Handling: Created try-catch block with sql, handle error with error.tsx for all the pages, not-found.tsx for specific page.
 
 These modifications have not only solidified my understanding of Next.js's core principles but also pushed the boundaries of what I can achieve with the framework. By applying what I've learned in practical scenarios, I've managed to create a more engaging and performant application.
 
