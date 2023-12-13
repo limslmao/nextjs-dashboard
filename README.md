@@ -7,14 +7,14 @@ In this project, I will be experimenting with different features and modificatio
 
 This is a starter template using the following stack:
 
-Framework - Next.js 14
-Language - TypeScript
-Auth - NextAuth.js
-Database - Vercel Postgres
-Deployment - Vercel
-Styling - Tailwind CSS
-Linting - ESLint
-Formatting - Prettier
+* Framework - Next.js 14
+* Language - TypeScript
+* Auth - NextAuth.js
+* Database - Vercel Postgres
+* Deployment - Vercel
+* Styling - Tailwind CSS
+* Linting - ESLint
+* Formatting - Prettier
 
 ## Project Objectives
 
